@@ -1,0 +1,30 @@
+#homepage{
+background-color: bisque;
+}
+.formhome{
+    background-image: url(../media/home/car.jpg);
+    margin-top: 0;
+
+}
+.formhome>form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 0%;
+   padding-bottom: 240px;
+   padding-top: 40px;
+}
+label{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    margin-top: 10px;
+    height: 30px;
+    color: black;
+    font-size: 15px;
+    margin-bottom: 10px;
+}

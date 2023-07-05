@@ -1,0 +1,44 @@
+#aboutpage{
+    background-color: rgb(190, 185, 175);
+}
+.profile{
+    height: 220px;
+}
+.profilediv>p{
+    font-family: cursive;
+ font-size: 10px; 
+
+}
+.profile>img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 200px;
+    margin-top: 25px;
+    border-radius: 50%;
+}
+.profilediv{
+float: right;
+margin-right: 55%;
+margin-top: 50px;
+}
+.experiance>h2{
+padding-top: 8px;
+margin-left: 250px;
+font-size: 30px;
+}
+.right{
+    float: right;
+    margin-top: 0px;
+    margin-right: 20%;
+    list-style-type: none;
+
+}
+.Left{
+    float: left;
+    margin-top: 0px;
+    margin-left: 17%;
+}
+.experiance{
+    margin-bottom: 200px;
+}
