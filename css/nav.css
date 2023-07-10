@@ -48,3 +48,15 @@ footer{
     border-right: 5px solid black;
     border-radius: 5px;
 }
+.link>a:link, a:visited{
+    color: black;
+    background-color: rgb(213, 196, 169);
+    padding: 20px, 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.link>a:hover,a:active{
+    color: brown;
+    background-color: rgb(102, 81, 50);
+}
