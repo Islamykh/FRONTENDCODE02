@@ -1,3 +1,20 @@
-.login{
-    
+.gridmain{
+    display: grid;
+   grid: 250px 250px /auto auto;
+   padding: 10px;
+   margin-left: 70px;
+   margin-bottom: 100px;
+   grid-gap: 120px;
+}
+.item>img{
+    width: 350px;
+    height: 300px;
+}
+.item>button{
+    width: 100x;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
 }
