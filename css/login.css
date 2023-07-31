@@ -3,18 +3,27 @@
    grid: 250px 250px /auto auto;
    padding: 10px;
    margin-left: 70px;
-   margin-bottom: 100px;
+   margin-bottom: 200px;
    grid-gap: 120px;
 }
+.item{
+    display: center;
+    margin-right:  auto;
+    margin-left: auto;
+
+}
 .item>img{
+    margin-top: 20px;
     width: 350px;
     height: 300px;
 }
 .item>button{
     width: 100x;
     height: 50px;
+    margin-top: 20px;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
-
+    margin-bottom: 20px;
 }
+
